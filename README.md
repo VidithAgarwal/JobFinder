@@ -84,5 +84,5 @@ Ensure the following tools and accounts are available:
    ```
 5. Open your browser and navigate to `http://localhost:5173` to view the app.
 
-**Made with ❤️ by Your Name**
+**Made with ❤️ by Your Vidith Agarwal**
  Licensed under the MIT License.
