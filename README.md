@@ -83,3 +83,6 @@ Ensure the following tools and accounts are available:
    npm run dev
    ```
 5. Open your browser and navigate to `http://localhost:5173` to view the app.
+
+## Made with ❤️ by Your Name
+### Licensed under the MIT License.
