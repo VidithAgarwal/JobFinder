@@ -27,20 +27,6 @@ A modern job portal application built with the MERN (MongoDB, Express.js, React.
 - **Image Management:** Cloudinary for efficient image uploads and storage
 - **Deployment:** Vercel (frontend), Render (backend), MongoDB Atlas (database)
 
-## ✨ Features
-- 🔒 **Secure Authentication**: JWT-based login for job seekers and employers.
-- 📄 **Application Management**: Track job applications with ease.
-- 📱 **Responsive Design**: Provides a seamless experience on all devices.
-
----
-
-## 🛠 Technologies Used
-- **Frontend**: React.js, React Router, Bootstrap
-- **Backend**: Node.js, Express.js, MongoDB
-- **Authentication**: JWT, Bcrypt
-- **Image Uploads**: Cloudinary
-- **Deployment**: Vercel, Render, MongoDB Atlas
-
 ---
 
 ## 🚀 Getting Started
