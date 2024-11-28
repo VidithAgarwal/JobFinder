@@ -2,12 +2,22 @@
 
 A modern job portal application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. This app enables users to explore job listings, apply for positions, and manage their applications efficiently.
 
-## Features
+---
 
-- **User Authentication:** Secure login and registration for both job seekers and employers using JWT (JSON Web Tokens).
-- **Job Listings:** Easily browse and filter a diverse range of job postings stored in MongoDB.
-- **Application Management:** Job seekers can track their applications, while employers can manage and review incoming applications.
-- **Responsive Design:** Delivers a seamless and engaging experience across all devices.
+## 📚 Table of Contents
+- [✨ Features](#features)
+- [🛠 Technologies Used](#technologies-used)
+- [🚀 Getting Started](#getting-started)
+- [🤝 Contributing](#contributing)
+
+---
+
+## ✨ Features
+
+- 🔒 **Secure Authentication**: Secure login and registration for both job seekers and employers using JWT (JSON Web Tokens).
+- 📝 **Job Listings**: Easily browse and filter a diverse range of job postings stored in MongoDB.
+- 📄 **Application Management**: Job seekers can track their applications, while employers can manage and review incoming applications.
+- 📱 **Responsive Design**: Delivers a seamless and engaging experience across all devices.
 
 ## Technologies Used
 
@@ -16,6 +26,29 @@ A modern job portal application built with the MERN (MongoDB, Express.js, React.
 - **Authentication:** JWT (JSON Web Tokens), Bcrypt for password hashing
 - **Image Management:** Cloudinary for efficient image uploads and storage
 - **Deployment:** Vercel (frontend), Render (backend), MongoDB Atlas (database)
+
+## ✨ Features
+- 🔒 **Secure Authentication**: JWT-based login for job seekers and employers.
+- 📄 **Application Management**: Track job applications with ease.
+- 📱 **Responsive Design**: Provides a seamless experience on all devices.
+
+---
+
+## 🛠 Technologies Used
+- **Frontend**: React.js, React Router, Bootstrap
+- **Backend**: Node.js, Express.js, MongoDB
+- **Authentication**: JWT, Bcrypt
+- **Image Uploads**: Cloudinary
+- **Deployment**: Vercel, Render, MongoDB Atlas
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v22.2.0+)
+- MongoDB Atlas or local MongoDB
+- Cloudinary account
 
 ## Getting Started
 
