@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import "./App.css";
 import { Context } from "./main";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Login from "./components/Auth/Login";
+import Login from "./components/Auth/login";
 import Register from "./components/Auth/Register";
 import { Toaster } from "react-hot-toast";
 import axios from "axios";
@@ -12,9 +12,9 @@ import Home from "./components/Home/Home";
 import Jobs from "./components/Job/Jobs";
 import JobDetails from "./components/Job/JobDetails";
 import Application from "./components/Application/Application";
-import MyApplications from "./components/Application/MyApplication";
+import MyApplications from "./components/Application/MyApplications";
 import PostJob from "./components/Job/PostJob";
-import NotFound from "./components/NotFound/NotFoundPage";
+import NotFound from "./components/NotFound/NotFound";
 import MyJobs from "./components/Job/MyJobs";
 
 const App = () => {
