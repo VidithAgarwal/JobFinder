@@ -1,6 +1,8 @@
 import express from "express";
 import dbConnection  from "./database/dbConnection.js";
 import userRouter from "./routes/userRoutes.js";
+import jobRouter from "./routes/jobRoutes.js";
+import applicationRouter from "./routes/applicationRoutes.js";
 import { config } from "dotenv";
 import cors from "cors";
 import { errorMiddleware } from "./middlewares/error.js";
